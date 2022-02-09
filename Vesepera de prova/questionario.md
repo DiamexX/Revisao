@@ -24,3 +24,14 @@ resposta:
 Os codigos que colocam do git hub, estaram sempre disponivel a todos usuarios da web?
 
 resposta:
+so se estivre em modo publico
+
+
+5: questao
+
+oque e VCS?
+
+resposta:
+software de controle de versão
+
+
