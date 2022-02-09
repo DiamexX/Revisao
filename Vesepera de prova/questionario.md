@@ -11,3 +11,10 @@ quais linguagem posso atulizar quando e trabalhado com o git hub?
 
 resposta:
 não tem restrição de linguagem
+
+3: questao
+
+oque é um repositório?
+
+resposta:
+é um diretório onde os arquivos do seu projeto ficam armazenados. 
