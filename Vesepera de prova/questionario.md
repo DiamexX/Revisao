@@ -18,3 +18,8 @@ oque é um repositório?
 
 resposta:
 é um diretório onde os arquivos do seu projeto ficam armazenados. 
+
+4: questao
+
+Os codigos que colocam do git hub, estaram serem disponivel a todos usuarios da web?
+
