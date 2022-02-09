@@ -48,5 +48,18 @@ pull request?
 resposta:
 solicitação de atualização de código
 
+8: questao
+
+oque é fork?
+
+resposta:
+FAZER UMA COPIA DE UM REPOSITÓRIO DE ALGUM USUARIO PARA O SEU USUARIO
+
+9: questao
+
+oque é clone?
+
+CLONAR UM REPOSITÓRIO REMOTO P/ REPOSITÓRIO LOCAL
+
 
 
