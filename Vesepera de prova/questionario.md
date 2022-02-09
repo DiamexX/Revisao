@@ -34,4 +34,19 @@ oque e VCS?
 resposta:
 software de controle de versão
 
+6: questao
+
+oque branch?
+
+resposta:
+ramificação de um repositório
+
+7: questao
+
+pull request?
+
+resposta:
+solicitação de atualização de código
+
+
 
