@@ -21,5 +21,6 @@ resposta:
 
 4: questao
 
-Os codigos que colocam do git hub, estaram serem disponivel a todos usuarios da web?
+Os codigos que colocam do git hub, estaram sempre disponivel a todos usuarios da web?
 
+resposta:
